@@ -1,0 +1,3 @@
+changelog_path: './change_log/'
+default_headings:
+  - Changes
